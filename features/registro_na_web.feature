@@ -2,7 +2,7 @@
 # encode: UTF-8
 
 Funcionalidade: Registro na web
-    Eu como novo usuário
+    Eu como novo usuário Caminhoneiro
     Quero registrar uma conta
     Para ter acesso à página da Sontra
 
